@@ -1,0 +1,19 @@
+h1 {
+/*	color: rgba(0,200,100,0.9);
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid ;*/
+/*border: width, style, color;*/
+
+	border: 2px solid rgb(255,100,80);
+}
+
+h4 {
+	background: rgb(250,100,80)
+}
+body {
+	background: pink;
+/*	background: url(https://img.freepik.com/free-photo/light-brown-wooden-textured-background_53876-75016.jpg?size=626&ext=jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

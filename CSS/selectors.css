@@ -1,0 +1,39 @@
+/*element*/
+li {
+
+}
+/*class*/
+.hello {
+
+}
+
+/*id*/
+#name {
+
+}
+/*star*/
+/*applies to all the page*/
+ * {
+
+ }
+
+ /*Descendent Selector*/
+  li a {
+
+  }
+  /*Adjacent Selector*/
+  h1,h2,h3 + ul {
+
+  }
+
+/*attribute selector*/
+a [href=""] {
+
+}
+input [type=""] {
+
+}
+/*nth of type*/
+ul:nth-of-type (3) {
+	
+}
